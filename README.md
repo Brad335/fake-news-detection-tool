@@ -14,3 +14,4 @@ Quickstart (local):
 3. Visit frontend at http://localhost:3000 and backend at http://localhost:8000
 
 See docs/setup-guide.md for detailed setup.
+
